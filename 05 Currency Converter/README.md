@@ -23,12 +23,4 @@ A simple and elegant currency converter built with React and Tailwind CSS. This 
 
 ---
 
-## 🧑‍💻 Getting Started
 
-### 📦 Installation
-
-```bash
-git clone https://github.com/your-username/currency-converter.git
-cd currency-converter
-npm install
-npm run dev
