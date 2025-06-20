@@ -1,0 +1,5 @@
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  background: url("/your-graph-background.png") center/cover no-repeat;
+}
