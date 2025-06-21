@@ -5,9 +5,9 @@ A small React app demonstrating the use of **Context API** for managing user log
 ---
 
 ## Screenshots of the project
-![Screenshot 2025-06-21 185548](https://github.com/user-attachments/assets/34f3fe43-fa7c-4287-afaf-820465fbfa83)
-![Screenshot 2025-06-21 185535](https://github.com/user-attachments/assets/47d90f27-37c6-4fcc-8c58-f0b630b78f6d)
 
+![Screenshot 2025-06-21 185535](https://github.com/user-attachments/assets/47d90f27-37c6-4fcc-8c58-f0b630b78f6d)
+![Screenshot 2025-06-21 185548](https://github.com/user-attachments/assets/34f3fe43-fa7c-4287-afaf-820465fbfa83)
 
 ---
 
