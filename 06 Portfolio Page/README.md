@@ -23,12 +23,6 @@ A clean and responsive personal portfolio webpage built with React and Tailwind 
 ![Screenshot 2025-06-21 164326](https://github.com/user-attachments/assets/f4ccc1b9-d30a-4358-8cf7-efc2e1b3d039)  
 ![Screenshot 2025-06-21 164002](https://github.com/user-attachments/assets/23f9ffc8-2945-4aa8-a8e6-9ecc7650f6bc)  
 
-
-
-| Homepage | Features Section |
-|----------|------------------|
-| ![Homepage](./screenshots/home.png) | ![Features](./screenshots/features.png) |
-
 ---
 
 ## 🛠️ Tech Stack
