@@ -1,12 +1,39 @@
-# React + Vite
+# 🧩 Mini Context Practice
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A small React app demonstrating the use of **Context API** for managing user login state across the app.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Screenshots of the project
 
-## Expanding the ESLint configuration
+![Screenshot 2025-06-21 185535](https://github.com/user-attachments/assets/47d90f27-37c6-4fcc-8c58-f0b630b78f6d)
+![Screenshot 2025-06-21 185548](https://github.com/user-attachments/assets/34f3fe43-fa7c-4287-afaf-820465fbfa83)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🔍 Features
+
+- Lightweight user context management
+- Simple login & logout flow
+- Shared state across components using React Context
+- Starter layout ready for extension
+
+---
+
+## 🗂️ Project Structure
+
+```text
+07 Mini Context/
+├── public/
+│   └── index.html               # Entry HTML file
+├── src/
+│   ├── components/
+│   │   ├── Profile.jsx          # Profile page that consumes user context
+│   │   └── Login.jsx            # Login form to set user info
+│   ├── context/
+│   │   ├── UserContext.js       # React Context object
+│   │   └── UserContextProvider.jsx  # Wraps app and provides `{ user, setUser }`
+│   ├── App.jsx                  # Main app with routing
+│   └── index.jsx                # App bootstrap with router + provider
+├── package.json
+└── README.md
